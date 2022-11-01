@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SourceGeneratorTest.Generators": {
+      "commandName": "Project"
+    },
+    "DebugGenerators": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\SourceGeneratorTest\\SourceGeneratorTest.csproj"
+    }
+  }
+}
